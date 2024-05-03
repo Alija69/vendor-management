@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'vendor_management.wsgi.application'
 DATABASES = {
     'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'vendor_management',
-            'USER':'root',
-            'PASSWORD': 'Alija@123',
+            'NAME': '',
+            'USER':'',
+            'PASSWORD': '',
             'HOST': '127.0.0.1',
             'PORT': '3306',
             'OPTIONS': {
