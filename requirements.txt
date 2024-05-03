@@ -1,0 +1,5 @@
+Django==2.2.3
+django-allauth==0.40.0
+django-mysql==3.2.0
+djangorestframework==3.10.1
+mysqlclient==1.4.2.post1
