@@ -10,7 +10,7 @@ This Django application, A backend system to manage vendors and purchase orders.
 
 1. Clone the repository:
 
-   git clone https://github.com/Alija69/shop.git
+   git clone https://github.com/Alija69/vendor-management.git
    cd shop-project
 
 2.  Create virtual enviorment:
@@ -30,3 +30,7 @@ This Django application, A backend system to manage vendors and purchase orders.
 6. Run python server:
 
     python manage.py runserver
+
+### API Documentations:
+
+    https://documenter.getpostman.com/view/24229567/2sA3JFBk5q
